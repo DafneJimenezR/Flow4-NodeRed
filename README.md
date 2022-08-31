@@ -113,7 +113,7 @@ Chart
 
 A continuación puedes ver los nodos del flow.
 
-[![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png)
+[![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/conexiones.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/conexiones.png)
 
 A continuación puede ver el tablero resultante.
 [![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/tablero.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/tablero.png)
