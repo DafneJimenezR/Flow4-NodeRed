@@ -58,6 +58,7 @@ Para ejecutar este flow, es necesario lo siguiente
 
 
 1. Arrastrar al espacio de trabajo el número de nodos que se muestran a continuación:
+
 | NODO | CANTIDAD  |
 |--|--|
 |MQTT| 1 |
@@ -65,6 +66,7 @@ Para ejecutar este flow, es necesario lo siguiente
 |FUNCTION|2|
 |GAUGE|2|
 |CHART|1|
+
 
 2.  Conexión de los nodos, conectar el nodo mqtt-in>nodo json>nodo function temp & function hum posteriormente cada uno de los nodo function se conectaran con su propio nodo gauge, finalmente el nodo chart se conectara directamente con los nodos function. 
 ![Conexión de nodos.](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/conexiones.png)
