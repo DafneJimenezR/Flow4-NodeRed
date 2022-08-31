@@ -71,29 +71,38 @@ Para ejecutar este flow, es necesario lo siguiente
 2.  Conexión de los nodos, conectar el nodo mqtt-in>nodo json>nodo function temp & function hum posteriormente cada uno de los nodo function se conectaran con su propio nodo gauge, finalmente el nodo chart se conectara directamente con los nodos function. 
 ![Conexión de nodos.](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/conexiones.png)
 
-3. Abrir la sección de dashboard crear un nuevo tab con el nombre Flow 4 - MQTT y crear tres grupos uno con el nombre Temperatura y Humedad
+3. Abrir la sección de dashboard crear un nuevo tab con el nombre Flow 4 - MQTT y crear tres grupos uno con el nombre Temperatura y Humedad.
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/dashboart_layout.png)
 
-4. Configuración de los nodos
+5. Configuración de los nodos
+
 MQTT
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/mqtt_in.png)
 
 JSON
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/json_.png)
 
 FUNCTION-Temperatura
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/function_temp.png)
 
 FUNCTION-Humedad
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/function_hum.png)
 
 Gauge-Temperatura
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/gauge_temp.png)
 
 Gauge-Humedad
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/gauge_hum.png)
 
 Chart
+
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/chart.png)
 
 ### Instrucciones de operación
