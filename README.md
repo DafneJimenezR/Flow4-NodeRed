@@ -70,19 +70,21 @@ Para ejecutar este flow, es necesario lo siguiente
 3.- Abrir la sección de dashboard crear un nuevo tab con el nombre Flow 4 - MQTT y crear tres grupos uno con el nombre Temperatura y Humedad
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/dashboart_layout.png)
 4- Configuración de los nodos
-> MQTT
+MQTT
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/mqtt_in.png)
-> JSON
+
+JSON
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/json_.png)
-> FUNCTION-Temperatura
+
+FUNCTION-Temperatura
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/function_temp.png)
-> FUNCTION-Humedad
+FUNCTION-Humedad
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/function_hum.png)
-> Gauge-Temperatura
+Gauge-Temperatura
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/gauge_temp.png)
-> Gauge-Humedad
+Gauge-Humedad
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/gauge_hum.png)
-> Chart
+Chart
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/chart.png)
 
 ### Instrucciones de operación
@@ -104,4 +106,6 @@ A continuación puede ver el tablero resultante.
 
 ## Créditos
 Creado por  [DafneJimenezR](https://github.com/DafneJimenezR)
+
+
 
