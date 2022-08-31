@@ -57,7 +57,7 @@ Para ejecutar este flow, es necesario lo siguiente
 	- El nodo de gráfico se utiliza para mostrar datos de entrada en varias formas de gráfico (línea, pastel, barra, etc.).
 
 
-1.- Arrastrar al espacio de trabajo el número de nodos que se muestran a continuación:
+1. Arrastrar al espacio de trabajo el número de nodos que se muestran a continuación:
 | NODO | CANTIDAD  |
 |--|--|
 |MQTT| 1 |
@@ -65,11 +65,14 @@ Para ejecutar este flow, es necesario lo siguiente
 |FUNCTION|2|
 |GAUGE|2|
 |CHART|1|
-2.- Conexión de los nodos, conectar el nodo mqtt-in>nodo json>nodo function temp & function hum posteriormente cada uno de los nodo function se conectaran con su propio nodo gauge, finalmente el nodo chart se conectara directamente con los nodos function. 
+
+2.  Conexión de los nodos, conectar el nodo mqtt-in>nodo json>nodo function temp & function hum posteriormente cada uno de los nodo function se conectaran con su propio nodo gauge, finalmente el nodo chart se conectara directamente con los nodos function. 
 ![Conexión de nodos.](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/conexiones.png)
-3.- Abrir la sección de dashboard crear un nuevo tab con el nombre Flow 4 - MQTT y crear tres grupos uno con el nombre Temperatura y Humedad
+
+3. Abrir la sección de dashboard crear un nuevo tab con el nombre Flow 4 - MQTT y crear tres grupos uno con el nombre Temperatura y Humedad
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/dashboart_layout.png)
-4- Configuración de los nodos
+
+4. Configuración de los nodos
 MQTT
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/mqtt_in.png)
 
