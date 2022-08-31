@@ -75,7 +75,7 @@ Para ejecutar este flow, es necesario lo siguiente
 
 ![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/dashboart_layout.png)
 
-5. Configuración de los nodos
+4. Configuración de los nodos
 
 MQTT
 
@@ -113,7 +113,7 @@ Chart
 
 A continuación puedes ver los nodos del flow.
 
-[![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png
+[![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/nodos.png)
 
 A continuación puede ver el tablero resultante.
 [![](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/tablero.png)](https://github.com/DafneJimenezR/Flow4-NodeRed/blob/main/tablero.png)
